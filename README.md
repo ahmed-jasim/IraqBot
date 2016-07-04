@@ -49,7 +49,6 @@ chmod +x launch.sh
 # لا تخجل في طرح اسئلتكم : 
 
 قناتنا
-@world_net
-
+[@world_net](http://telegram.me/world_net)
 
 
